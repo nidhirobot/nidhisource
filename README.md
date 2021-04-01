@@ -9,6 +9,8 @@
 For any assistance you may join our OT chat [here](https://t.me/NidhiSpam)
 You may get ban if you ask how to deploy in our support chat.
 
+## Scroll down to get Nidhi source gitlab link
+
 Deploy Nidhi to Heroku:
 
 <p align="left"><a href="https://telegra.ph/file/582aa58e35a26ccec1a69.mp4"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
