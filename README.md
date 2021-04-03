@@ -112,7 +112,10 @@ Deploy Nidhi to Heroku:
 # 👇
 
 # 👇
-<img src="https://telegra.ph/file/1181640a4b1ab9fdecbc8.jpg" height="250px" width="700px">       
+<img src="https://telegra.ph/file/1181640a4b1ab9fdecbc8.jpg" height="250px" width="700px">  
+
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=NidhiRobot&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+  
 
 
 
